@@ -23,24 +23,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 São 4 exercicios com o intuito de desenvolver programinhas de automação com python, com esse projeto pude aplicar os conhecimentos basicos da linguagem, utilizando funções, condicionais, laços e métodos. 
 
+#### Atividade 1:
+
 <p align="center">
-  <img alt="Exercicio 1" src="exercicios-python/assets/print-ativ-1.png">
+  <img alt="Exercicio 1" src="assets\print-ativ-1.png">
+</p>
+
+#### Atividade 2:
+
+<p align="center">
+  <img alt="Exercicio 2" src="assets\print-ativ-2.png">
+</p>
+
+#### Atividade 3:
+
+<p align="center">
+  <img alt="Exercicio 3" src="assets\print-ativ-3-1.png">
 </p>
 
 <p align="center">
-  <img alt="Exercicio 2" src="![Alt text](../../../../../../C:/Users/iris_/OneDrive/%C3%81rea%20de%20Trabalho/Atividade%20em%20Python/assets/print-ativ-2.png)">
+  <img alt="Exercicio 3" src="assets\print-ativ-3-2.png">
 </p>
 
-<p align="center">
-  <img alt="Exercicio 3" src="![Alt text](../../../../../../C:/Users/iris_/OneDrive/%C3%81rea%20de%20Trabalho/Atividade%20em%20Python/assets/print-ativ-3-1.png)">
-</p>
+#### Atividade 4:
 
 <p align="center">
-  <img alt="Exercicio 3" src="C:![Alt text](../../../../../../C:/Users/iris_/OneDrive/%C3%81rea%20de%20Trabalho/Atividade%20em%20Python/assets/print-ativ-3-2.png)">
-</p>
-
-<p align="center">
-  <img alt="Exercicio 4" src="![Alt text](../../../../../../C:/Users/iris_/OneDrive/%C3%81rea%20de%20Trabalho/Atividade%20em%20Python/assets/print-ativ-4.png)">
+  <img alt="Exercicio 4" src="assets\print-ativ-4.png">
 </p>
 
 ## 📝 Licença
