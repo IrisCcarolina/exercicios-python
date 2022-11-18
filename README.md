@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 São 4 exercicios com o intuito de desenvolver programinhas de automação com python, com esse projeto pude aplicar os conhecimentos basicos da linguagem, utilizando funções, condicionais, laços e métodos. 
 
 <p align="center">
-  <img alt="Exercicio 1" src="![Alt text](../../../../../../C:/Users/iris_/OneDrive/%C3%81rea%20de%20Trabalho/Atividade%20em%20Python/assets/print-ativ-1.png)">
+  <img alt="Exercicio 1" src="exercicios-python/assets/print-ativ-1.png">
 </p>
 
 <p align="center">
